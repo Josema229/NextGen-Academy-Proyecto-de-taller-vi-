@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>TechLearn - Academia de Informática</title>
+  <title>NextGen Academy - Academia de Informática</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -11,8 +11,8 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
       <a class="navbar-brand d-flex align-items-center" href="index.php">
-        <img src="img/logo.png" alt="TechLearn" width="40" class="me-2">
-        <span>TechLearn</span>
+        <img src="img/logo.png" alt="NextGen" width="40" class="me-2">
+        <span>NextGen</span>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
         <span class="navbar-toggler-icon"></span>
