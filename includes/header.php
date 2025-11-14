@@ -8,11 +8,11 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
     <div class="container">
       <a class="navbar-brand d-flex align-items-center" href="index.php">
         <img src="img/logo.png" alt="NextGen" width="40" class="me-2">
-        <span>NextGen</span>
+        <span class="fw-bold">NextGen</span>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
         <span class="navbar-toggler-icon"></span>
@@ -21,12 +21,11 @@
         <ul class="navbar-nav ms-auto">
           <li class="nav-item"><a class="nav-link" href="index.php">Inicio</a></li>
           <li class="nav-item"><a class="nav-link" href="nosotros.php">Nosotros</a></li>
-          <li class="nav-item"><a class="nav-link" href="servicios.php">Servicios</a></li>
-          <li class="nav-item"><a class="nav-link" href="empresa.php">La Empresa</a></li>
-          <li class="nav-item"><a class="nav-link" href="valores.php">Valores</a></li>
+          <li class="nav-item"><a class="nav-link" href="cursos.php">Cursos</a></li>
+          <li class="nav-item"><a class="nav-link" href="galeria.php">Galería</a></li>
           <li class="nav-item"><a class="nav-link" href="contacto.php">Contacto</a></li>
         </ul>
       </div>
     </div>
   </nav>
-  <main class="container my-5">
+  <main>
